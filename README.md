@@ -22,7 +22,8 @@ data by running jest with "npm test".
  
 
 ## Usage:
-![team-generator-img]()
+[Team-Generator Vid.webm](https://user-images.githubusercontent.com/112823750/226527586-a6f4ff00-1e55-4277-9b82-5c6010fdaa18.webm)
+
 
 
 ## License
